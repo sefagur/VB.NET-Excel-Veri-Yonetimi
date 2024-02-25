@@ -1,0 +1,46 @@
+C:\Users\msefa\source\repos\ExelAdds\ExelAdds\obj\Debug\ExelAdds.vbprojAssemblyReference.cache
+C:\Users\msefa\source\repos\ExelAdds\ExelAdds\obj\Debug\ExelAdds.Form1.resources
+C:\Users\msefa\source\repos\ExelAdds\ExelAdds\obj\Debug\ExelAdds.Resources.resources
+C:\Users\msefa\source\repos\ExelAdds\ExelAdds\obj\Debug\ExelAdds.vbproj.GenerateResource.cache
+C:\Users\msefa\source\repos\ExelAdds\ExelAdds\obj\Debug\ExelAdds.vbproj.CoreCompileInputs.cache
+C:\Users\msefa\source\repos\ExelAdds\ExelAdds\bin\Debug\ExelAdds.exe.config
+C:\Users\msefa\source\repos\ExelAdds\ExelAdds\bin\Debug\ExelAdds.exe
+C:\Users\msefa\source\repos\ExelAdds\ExelAdds\bin\Debug\ExelAdds.pdb
+C:\Users\msefa\source\repos\ExelAdds\ExelAdds\bin\Debug\ExelAdds.xml
+C:\Users\msefa\source\repos\ExelAdds\ExelAdds\obj\Debug\ExelAdds.exe
+C:\Users\msefa\source\repos\ExelAdds\ExelAdds\obj\Debug\ExelAdds.xml
+C:\Users\msefa\source\repos\ExelAdds\ExelAdds\obj\Debug\ExelAdds.pdb
+C:\Users\msefa\OneDrive\Masaüstü\ExelAdds\ExelAdds\bin\Debug\ExelAdds.exe.config
+C:\Users\msefa\OneDrive\Masaüstü\ExelAdds\ExelAdds\bin\Debug\ExelAdds.exe.manifest
+C:\Users\msefa\OneDrive\Masaüstü\ExelAdds\ExelAdds\bin\Debug\ExelAdds.application
+C:\Users\msefa\OneDrive\Masaüstü\ExelAdds\ExelAdds\bin\Debug\ExelAdds.exe
+C:\Users\msefa\OneDrive\Masaüstü\ExelAdds\ExelAdds\bin\Debug\ExelAdds.pdb
+C:\Users\msefa\OneDrive\Masaüstü\ExelAdds\ExelAdds\bin\Debug\ExelAdds.xml
+C:\Users\msefa\OneDrive\Masaüstü\ExelAdds\ExelAdds\obj\Debug\ExelAdds.vbprojAssemblyReference.cache
+C:\Users\msefa\OneDrive\Masaüstü\ExelAdds\ExelAdds\obj\Debug\ExelAdds.Form1.resources
+C:\Users\msefa\OneDrive\Masaüstü\ExelAdds\ExelAdds\obj\Debug\ExelAdds.Resources.resources
+C:\Users\msefa\OneDrive\Masaüstü\ExelAdds\ExelAdds\obj\Debug\ExelAdds.vbproj.GenerateResource.cache
+C:\Users\msefa\OneDrive\Masaüstü\ExelAdds\ExelAdds\obj\Debug\ExelAdds.vbproj.CoreCompileInputs.cache
+C:\Users\msefa\OneDrive\Masaüstü\ExelAdds\ExelAdds\obj\Debug\ExelAdds.TrustInfo.xml
+C:\Users\msefa\OneDrive\Masaüstü\ExelAdds\ExelAdds\obj\Debug\ExelAdds.exe.manifest
+C:\Users\msefa\OneDrive\Masaüstü\ExelAdds\ExelAdds\obj\Debug\ExelAdds.application
+C:\Users\msefa\OneDrive\Masaüstü\ExelAdds\ExelAdds\obj\Debug\ExelAdds.exe
+C:\Users\msefa\OneDrive\Masaüstü\ExelAdds\ExelAdds\obj\Debug\ExelAdds.xml
+C:\Users\msefa\OneDrive\Masaüstü\ExelAdds\ExelAdds\obj\Debug\ExelAdds.pdb
+C:\Users\msefa\OneDrive\Masaüstü\ExelAdds - Kopya\ExelAdds\bin\Debug\ExelAdds.exe.config
+C:\Users\msefa\OneDrive\Masaüstü\ExelAdds - Kopya\ExelAdds\bin\Debug\ExelAdds.exe.manifest
+C:\Users\msefa\OneDrive\Masaüstü\ExelAdds - Kopya\ExelAdds\bin\Debug\ExelAdds.application
+C:\Users\msefa\OneDrive\Masaüstü\ExelAdds - Kopya\ExelAdds\bin\Debug\ExelAdds.exe
+C:\Users\msefa\OneDrive\Masaüstü\ExelAdds - Kopya\ExelAdds\bin\Debug\ExelAdds.pdb
+C:\Users\msefa\OneDrive\Masaüstü\ExelAdds - Kopya\ExelAdds\bin\Debug\ExelAdds.xml
+C:\Users\msefa\OneDrive\Masaüstü\ExelAdds - Kopya\ExelAdds\obj\Debug\ExelAdds.vbprojAssemblyReference.cache
+C:\Users\msefa\OneDrive\Masaüstü\ExelAdds - Kopya\ExelAdds\obj\Debug\ExelAdds.Form1.resources
+C:\Users\msefa\OneDrive\Masaüstü\ExelAdds - Kopya\ExelAdds\obj\Debug\ExelAdds.Resources.resources
+C:\Users\msefa\OneDrive\Masaüstü\ExelAdds - Kopya\ExelAdds\obj\Debug\ExelAdds.vbproj.GenerateResource.cache
+C:\Users\msefa\OneDrive\Masaüstü\ExelAdds - Kopya\ExelAdds\obj\Debug\ExelAdds.vbproj.CoreCompileInputs.cache
+C:\Users\msefa\OneDrive\Masaüstü\ExelAdds - Kopya\ExelAdds\obj\Debug\ExelAdds.TrustInfo.xml
+C:\Users\msefa\OneDrive\Masaüstü\ExelAdds - Kopya\ExelAdds\obj\Debug\ExelAdds.exe.manifest
+C:\Users\msefa\OneDrive\Masaüstü\ExelAdds - Kopya\ExelAdds\obj\Debug\ExelAdds.application
+C:\Users\msefa\OneDrive\Masaüstü\ExelAdds - Kopya\ExelAdds\obj\Debug\ExelAdds.exe
+C:\Users\msefa\OneDrive\Masaüstü\ExelAdds - Kopya\ExelAdds\obj\Debug\ExelAdds.xml
+C:\Users\msefa\OneDrive\Masaüstü\ExelAdds - Kopya\ExelAdds\obj\Debug\ExelAdds.pdb

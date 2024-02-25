@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://github.com/sefagur/VB.NET-Excel-Veri-Yonetimi/assets/55931195/568e13c4-c523-433c-a641-0a96b8e28763" alt="Logo" width="100"></a>
+ <img src="https://github.com/sefagur/VB.NET-Excel-Veri-Yonetimi/assets/55931195/568e13c4-c523-433c-a641-0a96b8e28763" alt="Logo" width="100">
   <br>
 VB.NET Excel Veri Yönetimi
   <br>
